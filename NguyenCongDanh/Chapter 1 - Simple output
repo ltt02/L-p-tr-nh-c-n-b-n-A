@@ -2,7 +2,6 @@
 Bài 1: Viết chương trình in câu Hello, world! ra màn hình.
 ```c
 #include <stdio.h>
-
 int main(int argc, char const *argv[])
 {
     printf("Hello, world!");
